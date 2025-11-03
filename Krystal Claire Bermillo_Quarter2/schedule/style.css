@@ -1,0 +1,128 @@
+.Teacher{
+    background-color: bisque;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.time{
+    background-color: lightblue;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.container{
+    width: 120vh;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+.minute{
+    background-color: lightyellow;
+    border:2px solid black;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    height: 20px; 
+    border: 2px solid black;
+}
+.day{
+    background-color: lightskyblue;
+    border:2px solid black;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+}
+.Teacher:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-eapp:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-pr:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-ucsp:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-entrep:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-pl:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-philo:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-spec:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-hr:hover{
+    background-color: rgb(4, 74, 139);
+}
+.Teacher-fr:hover{
+    background-color: rgb(4, 74, 139);
+}
+.container{
+    margin:0 auto;
+    max-width: 1000px;   
+}
+.Teacher-pr{
+    background-color: lightcoral;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.Teacher-eapp{
+    background-color: lightseagreen;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.Teacher-spec{
+    background-color: lightsteelblue;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.Teacher-hr{
+    background-color: lightyellow;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.Teacher-fr{
+    background-color: lightgreen;
+    width: auto;
+    height: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+    

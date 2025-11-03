@@ -1,0 +1,49 @@
+.bingo-card  {
+    display:grid;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: rgb(202, 138, 245);
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10 px;
+    width: 500px;
+    text-align: center;
+}
+.row{
+    display: flex;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-weight: bold;
+}
+.header-cell{
+    width: 50px;
+    padding: 5px;
+    border: 1px solid #ccc
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+    padding: 10px;
+}
+.cell {
+    background-color: #8faaf5;
+    padding: 20px;
+    border: 1px solid #3b0419;
+    text-align: center;
+}
+
+.free{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.cell:hover {
+    background-color: #ccc;
+}
+.marked {
+    background-color: #66cc00;
+    color: #fff;
+}
